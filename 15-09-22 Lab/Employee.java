@@ -1,6 +1,6 @@
 class Employee 
 {
-      int empID;
+        int empID;
 	String name;
 	String department;
 	int salary;
